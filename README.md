@@ -1,121 +1,121 @@
 # educative.io_courses
 this is downloadings of all educative.io free student subscription courses
 
-0	'A Complete Guide to Launching Your Website_ From Local to Live - Learn Interactively'	
-1	'A Practical Guide to GraphQL_ From the Client Perspective - Learn Interactively'	
-2	'A Practical Guide to Kubernetes - Learn Interactively'	
-3	'A Visual Introduction to Algorithms - Learn Interactively'	
-4	'Advanced Kubernetes Techniques_ Monitoring_ Logging_ Auto-Scaling - Learn Interactively'	
-5	'Advanced React Patterns With Hooks - Learn Interactively'	
-6	'Advanced TypeScript Masterclass - Learn Interactively'	
-7	'An Introduction to Microservice Principles and Concepts - Learn Interactively'	
-8	'An Introduction to Programming in Go - Learn Interactively'	
-9	'An Introductory Guide to SQL - Learn Interactively'	
-10	'Applied Machine Learning_ Deep Learning for Industry - Learn Interactively'	
-11	'Applied Machine Learning_ Industry Case Study with TensorFlow - Learn Interactively'	
-12	'Bash for Programmers - Learn Interactively'	
-13	'Become a Blockchain Developer - Learn Interactively'	
-14	'Big-O Notation For Coding Interviews and Beyond - Learn Interactively'	
-15	'Building Tesla’s Battery Range Calculator with React _ Redux - Learn Interactively'	
-16	'CSS Theming for Professionals - Learn Interactively'	
-17	'C_ for Programmers_ A Practical Guide - Learn Interactively'	
-18	'C__ Fundamentals for Professionals - Learn Interactively'	
-19	'C__ Standard Library including C__ 14 _ C__ 17 - Learn Interactively'	
-20	'C__17 in Detail_ A Deep Dive - Learn Interactively'	
-21	'Cloud Architecture_ A Guide To Design _ Architect Your Cloud - Learn Interactively'	
-22	'Coding for Visual Learners_ Learning JavaScript with p5_js - Learn Interactively'	
-23	'Complete JavaScript Course_ Build a Real World App from Scratch - Learn Interactively'	
-24	'Data Science for Non-Programmers - Learn Interactively'	
-25	'Data Structures and Algorithms in Python - Learn Interactively'	
-26	'Data Structures in Javascript_ Visualizations _ Exercises - Learn Interactively'	
-27	'Database Design Fundamentals for Software Engineers - Learn Interactively'	
-28	'Design a Test Automation Framework with Selenium and Java - Learn Interactively'	
-29	'Docker for Developers - Learn Interactively'	
-30	'Embedded Programming with Modern C__ - Learn Interactively'	
-31	'Fixing Random_ Techniques in C_ - Learn Interactively'	
-32	'Flask_ Develop Web Applications in Python - Learn Interactively'	
-33	'From Python to Numpy - Learn Interactively'	
-34	'Full Speed Python - Learn Interactively'	
-35	'Full-Stack Web Applications with Firebase - Learn Interactively'	
-36	'Functional Programming Patterns With RamdaJS! - Learn Interactively'	
-37	'Functional Programming with ReasonML - Learn Interactively'	
-38	'Generic Programming Templates in C__ - Learn Interactively'	
-39	'Grokking Computer Networking for Software Engineers - Learn Interactively'	
-40	'Grokking Data Science - Learn Interactively'	
-41	'Grokking the Behavioral Interview - Learn Interactively'	
-42	'HTML5 Canvas_ From Noob to Ninja - an interactive deep dive - Learn Interactively'	
-43	'Image Recognition with Machine Learning - Learn Interactively'	
-44	'Integrating Firebase with React - Learn Interactively'	
-45	'Intermediate JavaScript_ Building Frontend Components - Learn Interactively'	
-46	'Introduction to JavaScript_ First Steps - Learn Interactively'	
-47	'JS Assessment_ Assess your Javascript skills - Learn Interactively'	
-48	'Java Multithreading for Senior Engineering Interviews - Learn Interactively'	
-49	'Java Unit Testing with JUnit 5 - Learn Interactively'	
-50	'JavaScript Fundamentals Before Learning React - Learn Interactively'	
-51	'JavaScript In Practice_ ES6 And Beyond - Learn Interactively'	
-52	'JavaScript in Practice_ Getting Started - Learn Interactively'	
-53	'Kotlin Crash Course for Programmers - Learn Interactively'	
-54	'Learn C from Scratch - Learn Interactively'	
-55	'Learn C__ from Scratch - Learn Interactively'	
-56	'Learn Dart_ First Step to Flutter - Learn Interactively'	
-57	'Learn Data Science with Bash Shell - Learn Interactively'	
-58	'Learn HTML_ CSS_ and JavaScript from Scratch - Learn Interactively'	
-59	'Learn Java from Scratch - Learn Interactively'	
-60	'Learn Object-Oriented Programming in C_ - Learn Interactively'	
-61	'Learn Object-Oriented Programming in C__ - Learn Interactively'	
-62	'Learn Object-Oriented Programming in Java - Learn Interactively'	
-63	'Learn Object-Oriented Programming in JavaScript - Learn Interactively'	
-64	'Learn Object-Oriented Programming in Python - Learn Interactively'	
-65	'Learn PHP from Scratch - Learn Interactively'	
-66	'Learn Perl from Scratch - Learn Interactively'	
-67	'Learn Python from Scratch - Learn Interactively'	
-68	'Learn R from Scratch - Learn Interactively'	
-69	'Learn React_js_ Redux _ Immutable_js while building a weather app - Learn Interactively'	
-70	'Learn Ruby from Scratch - Learn Interactively'	
-71	'Learn Rust from Scratch - Learn Interactively'	
-72	'Learn Scala from Scratch - Learn Interactively'	
-73	'Learn TypeScript_ The Complete Course for Beginners - Learn Interactively'	
-74	'Learn the A to Z of Amazon Web Services _AWS_ - Learn Interactively'	
-75	'Learn to Use HPC Systems and Supercomputers - Learn Interactively'	
-76	'Let_s learn ES6! Master new JavaScript features faster and easier - Learn Interactively'	
-77	'Machine Learning for Software Engineers - Learn Interactively'	
-78	'Make Your Own Neural Network in Python - Learn Interactively'	
-79	'Master the Bash Shell - Learn Interactively'	
-80	'Mastering Concurrency in Go - Learn Interactively'	
-81	'Mastering Data Structures and Sorting Algorithms in JavaScript - Learn Interactively'	
-82	'Microservice Architecture_ Practical Implementation - Learn Interactively'	
-83	'Modern Android App Development with Java - Learn Interactively'	
-84	'Modern C__ Concurrency_ Get the most out of any machine - Learn Interactively'	
-85	'Natural Language Processing with Machine Learning - Learn Interactively'	
-86	'Practical Redux - Learn Interactively'	
-87	'Programming in D_ The Ultimate Guide for Software Engineers - Learn Interactively'	
-88	'Python 101_ Interactively learn how to program with Python 3 - Learn Interactively'	
-89	'Python 201 - Interactively Learn Advanced Concepts in Python 3 - Learn Interactively'	
-90	'Python 3_ An interactive deep dive - Learn Interactively'	
-91	'Python Data Analysis and Visualization - Learn Interactively'	
-92	'Python Regular Expressions with Data Scraping Projects - Learn Interactively'	
-93	'Python for Scientists and Engineers - Learn Interactively'	
-94	'React Tracked_ Creating Web Apps with Global State - Learn Interactively'	
-95	'React in Patterns - Learn Interactively'	
-96	'Reintroducing React_ V16 and Beyond - Learn Interactively'	
-97	'Ruby Concurrency for Senior Engineering Interviews - Learn Interactively'	
-98	'Running Serverless Applications with AWS Lambda - Learn Interactively'	
-99	'Sass for CSS_ Advanced Frontend Development - Learn Interactively'	
-100	'Software Design Patterns_ Best Practices for Software Developers - Learn Interactively'	
-101	'Step Up Your JS_ A Comprehensive Guide to Intermediate JavaScript - Learn Interactively'	
-102	'Testing Vue_js Components with Jest - Learn Interactively'	
-103	'The Complete Advanced Guide to CSS - Learn Interactively'	
-104	'The Complete Guide to Modern JavaScript - Learn Interactively'	
-105	'The Complete Java Crash Course - Learn Interactively'	
-106	'The Definitive Guide to MongoDB - Learn Interactively'	
-107	'The Road to React_ The one with Class Components - Learn Interactively'	
-108	'The Road to React_ The one with Hooks - Learn Interactively'	
-109	'The Way to Go - Learn Interactively'	
-110	'Understanding Flexbox_ Everything you need to know - Learn Interactively'	
-111	'Understanding Redux_ A Beginner_s Guide To State Management - Learn Interactively'	
-112	'Using TypeScript with React - Learn Interactively'	
-113	'Web Application _ Software Architecture 101 - Learn Interactively'	
-114	'Web Development_ Unraveling HTML_ CSS_ and JavaScript - Learn Interactively'	
-115	'Web Development_ a Primer - Learn Interactively'	
-116	'README.md'	
-117	'grok_system_design_interview.pdf'
+- A Complete Guide to Launching Your Website_ From Local to Live - Learn Interactively
+- A Practical Guide to GraphQL_ From the Client Perspective - Learn Interactively
+- A Practical Guide to Kubernetes - Learn Interactively
+- A Visual Introduction to Algorithms - Learn Interactively
+- Advanced Kubernetes Techniques_ Monitoring_ Logging_ Auto-Scaling - Learn Interactively
+- Advanced React Patterns With Hooks - Learn Interactively
+- Advanced TypeScript Masterclass - Learn Interactively
+- An Introduction to Microservice Principles and Concepts - Learn Interactively
+- An Introduction to Programming in Go - Learn Interactively
+- An Introductory Guide to SQL - Learn Interactively
+- Applied Machine Learning_ Deep Learning for Industry - Learn Interactively
+- Applied Machine Learning_ Industry Case Study with TensorFlow - Learn Interactively
+- Bash for Programmers - Learn Interactively
+- Become a Blockchain Developer - Learn Interactively
+- Big-O Notation For Coding Interviews and Beyond - Learn Interactively
+- Building Tesla’s Battery Range Calculator with React _ Redux - Learn Interactively
+- CSS Theming for Professionals - Learn Interactively
+- C_ for Programmers_ A Practical Guide - Learn Interactively
+- C__ Fundamentals for Professionals - Learn Interactively
+- C__ Standard Library including C__ 14 _ C__ 17 - Learn Interactively
+- C__17 in Detail_ A Deep Dive - Learn Interactively
+- Cloud Architecture_ A Guide To Design _ Architect Your Cloud - Learn Interactively
+- Coding for Visual Learners_ Learning JavaScript with p5_js - Learn Interactively
+- Complete JavaScript Course_ Build a Real World App from Scratch - Learn Interactively
+- Data Science for Non-Programmers - Learn Interactively
+- Data Structures and Algorithms in Python - Learn Interactively
+- Data Structures in Javascript_ Visualizations _ Exercises - Learn Interactively
+- Database Design Fundamentals for Software Engineers - Learn Interactively
+- Design a Test Automation Framework with Selenium and Java - Learn Interactively
+- Docker for Developers - Learn Interactively
+- Embedded Programming with Modern C__ - Learn Interactively
+- Fixing Random_ Techniques in C_ - Learn Interactively
+- Flask_ Develop Web Applications in Python - Learn Interactively
+- From Python to Numpy - Learn Interactively
+- Full Speed Python - Learn Interactively
+- Full-Stack Web Applications with Firebase - Learn Interactively
+- Functional Programming Patterns With RamdaJS! - Learn Interactively
+- Functional Programming with ReasonML - Learn Interactively
+- Generic Programming Templates in C__ - Learn Interactively
+- Grokking Computer Networking for Software Engineers - Learn Interactively
+- Grokking Data Science - Learn Interactively
+- Grokking the Behavioral Interview - Learn Interactively
+- HTML5 Canvas_ From Noob to Ninja - an interactive deep dive - Learn Interactively
+- Image Recognition with Machine Learning - Learn Interactively
+- Integrating Firebase with React - Learn Interactively
+- Intermediate JavaScript_ Building Frontend Components - Learn Interactively
+- Introduction to JavaScript_ First Steps - Learn Interactively
+- JS Assessment_ Assess your Javascript skills - Learn Interactively
+- Java Multithreading for Senior Engineering Interviews - Learn Interactively
+- Java Unit Testing with JUnit 5 - Learn Interactively
+- JavaScript Fundamentals Before Learning React - Learn Interactively
+- JavaScript In Practice_ ES6 And Beyond - Learn Interactively
+- JavaScript in Practice_ Getting Started - Learn Interactively
+- Kotlin Crash Course for Programmers - Learn Interactively
+- Learn C from Scratch - Learn Interactively
+- Learn C__ from Scratch - Learn Interactively
+- Learn Dart_ First Step to Flutter - Learn Interactively
+- Learn Data Science with Bash Shell - Learn Interactively
+- Learn HTML_ CSS_ and JavaScript from Scratch - Learn Interactively
+- Learn Java from Scratch - Learn Interactively
+- Learn Object-Oriented Programming in C_ - Learn Interactively
+- Learn Object-Oriented Programming in C__ - Learn Interactively
+- Learn Object-Oriented Programming in Java - Learn Interactively
+- Learn Object-Oriented Programming in JavaScript - Learn Interactively
+- Learn Object-Oriented Programming in Python - Learn Interactively
+- Learn PHP from Scratch - Learn Interactively
+- Learn Perl from Scratch - Learn Interactively
+- Learn Python from Scratch - Learn Interactively
+- Learn R from Scratch - Learn Interactively
+- Learn React_js_ Redux _ Immutable_js while building a weather app - Learn Interactively
+- Learn Ruby from Scratch - Learn Interactively
+- Learn Rust from Scratch - Learn Interactively
+- Learn Scala from Scratch - Learn Interactively
+- Learn TypeScript_ The Complete Course for Beginners - Learn Interactively
+- Learn the A to Z of Amazon Web Services _AWS_ - Learn Interactively
+- Learn to Use HPC Systems and Supercomputers - Learn Interactively
+- Let_s learn ES6! Master new JavaScript features faster and easier - Learn Interactively
+- Machine Learning for Software Engineers - Learn Interactively
+- Make Your Own Neural Network in Python - Learn Interactively
+- Master the Bash Shell - Learn Interactively
+- Mastering Concurrency in Go - Learn Interactively
+- Mastering Data Structures and Sorting Algorithms in JavaScript - Learn Interactively
+- Microservice Architecture_ Practical Implementation - Learn Interactively
+- Modern Android App Development with Java - Learn Interactively
+- Modern C__ Concurrency_ Get the most out of any machine - Learn Interactively
+- Natural Language Processing with Machine Learning - Learn Interactively
+- Practical Redux - Learn Interactively
+- Programming in D_ The Ultimate Guide for Software Engineers - Learn Interactively
+- Python 101_ Interactively learn how to program with Python 3 - Learn Interactively
+- Python 201 - Interactively Learn Advanced Concepts in Python 3 - Learn Interactively
+- Python 3_ An interactive deep dive - Learn Interactively
+- Python Data Analysis and Visualization - Learn Interactively
+- Python Regular Expressions with Data Scraping Projects - Learn Interactively
+- Python for Scientists and Engineers - Learn Interactively
+- React Tracked_ Creating Web Apps with Global State - Learn Interactively
+- React in Patterns - Learn Interactively
+- Reintroducing React_ V16 and Beyond - Learn Interactively
+- Ruby Concurrency for Senior Engineering Interviews - Learn Interactively
+- Running Serverless Applications with AWS Lambda - Learn Interactively
+- Sass for CSS_ Advanced Frontend Development - Learn Interactively
+- Software Design Patterns_ Best Practices for Software Developers - Learn Interactively
+- Step Up Your JS_ A Comprehensive Guide to Intermediate JavaScript - Learn Interactively
+- Testing Vue_js Components with Jest - Learn Interactively
+- The Complete Advanced Guide to CSS - Learn Interactively
+- The Complete Guide to Modern JavaScript - Learn Interactively
+- The Complete Java Crash Course - Learn Interactively
+- The Definitive Guide to MongoDB - Learn Interactively
+- The Road to React_ The one with Class Components - Learn Interactively
+- The Road to React_ The one with Hooks - Learn Interactively
+- The Way to Go - Learn Interactively
+- Understanding Flexbox_ Everything you need to know - Learn Interactively
+- Understanding Redux_ A Beginner_s Guide To State Management - Learn Interactively
+- Using TypeScript with React - Learn Interactively
+- Web Application _ Software Architecture 101 - Learn Interactively
+- Web Development_ Unraveling HTML_ CSS_ and JavaScript - Learn Interactively
+- Web Development_ a Primer - Learn Interactively
+- README.md
+- grok_system_design_interview.pdf
